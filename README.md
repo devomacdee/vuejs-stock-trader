@@ -1,6 +1,6 @@
 # vue-cli
 
-> A Vue.js project
+> Udemy tutorial I did when first learning vue js.
 
 ## Build Setup
 
