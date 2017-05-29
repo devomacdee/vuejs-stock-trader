@@ -1,6 +1,6 @@
 # vue-cli
 
-> Udemy tutorial I did when first learning vue js.
+> Mock stock trader with vuex handling state management.
 
 ## Build Setup
 
